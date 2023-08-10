@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- * main - A c program that prints a line to the starndard error
+ * main - Entry point
+ *
  * Return: Always 1 (Success)
  */
 int main(void)
