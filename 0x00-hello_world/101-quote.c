@@ -1,6 +1,7 @@
 #include <unistd.h>
 
-/**main - print "and that piece of art is useful" - Dora Korpar, 2015-10-19",
+/**
+ * main - print "and that piece of art is useful" - Dora Korpar, 2015-10-19",
  * followed by a newline, to starndard error.
  * Return: Always 1.
  */
